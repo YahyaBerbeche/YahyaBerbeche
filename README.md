@@ -52,7 +52,7 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://www.computing.co.uk/api/v1/wps/c4fcbcd/2eac5222-4042-4d1b-abd0-6e340795a18c/3/Struts-370x229.jpg" />
 <br/><br/><br/>
-<img align="left" alt="HTML5" width="40px" src="https://university.itametis.com/website/files/images/logos/apache-maven.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/1280px-Maven_logo.svg.png" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
