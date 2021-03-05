@@ -69,6 +69,8 @@
 <br />
 
 
+![Yahya's github stats](https://github-readme-stats.vercel.app/api?username=YahyaBerbeche&show_icons=true&theme=vision-friendly-dark)
+
 ---
 
 [gmail]: mailto:yberbeche@sqli.com
